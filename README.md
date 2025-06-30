@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabrizzio Oviedo</h1>
 
-<div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNachop51%2F&label=Profile%20views&labelColor=%23d9e3f0&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNachop51%2F)
-
-</div>
 <h3 align="center"> 📫 How to reach me: </h3>
 
 <div align="center">
