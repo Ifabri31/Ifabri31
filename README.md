@@ -1,58 +1,62 @@
 <h1 align="center">Hi 👋, I'm Fabrizzio Oviedo</h1>
-<h3 align="center">A passionate software developer & padel/volley coach from Uruguay 🇺🇾</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabrioviedo&label=Profile%20views&color=0e75b6&style=flat" alt="fabrioviedo" />
-</p>
+<div align="center">
 
----
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNachop51%2F&label=Profile%20views&labelColor=%23d9e3f0&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNachop51%2F)
 
-### 👨‍💻 About Me
+</div>
+<h3 align="center"> 📫 How to reach me: </h3>
 
-- 🎓 Student at **Holberton School Uruguay**
-- 💼 Currently working on: `BDfy` – a real-time auction platform
-- 🎯 I love building tools that make life easier and prettier
-- 🧠 Always learning something new (or debugging something old)
+<div align="center">
 
----
+&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oviedofabrizzio1998@gmail.com)
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oviedofabrizzio31/)
+&ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/oviedofabrizzio/)
 
-### 📫 How to reach me
+</div>
 
-<p align="center">
-  <a href="mailto:fabrioviedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fabrioviedo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fabrioviedo/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/fabriov"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-</p>
+<h3 align="center"> 🔧 Technologies and Tools </h3>
 
----
+<div align="center">
 
-### 🛠️ Technologies and Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,postgres,docker,git,github,vscode,c" />
-</p>
+<br />
 
----
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Talwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌱 Currently Learning
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-AI%20%26%20System%20Design-brightgreen?style=for-the-badge&logo=OpenAI&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
+</div>
 
-### 📊 GitHub Stats
+<h3 align="center"> 🌱 I'm currently learning: </h3>
 
----
+<div align="center">
 
-### 🐙 GitHub Trophies
+How to stop pushing to main 😅
+<br />
+To stop saying “it's working on my machine”
+<br />
+Debugging without crying 🐛💧
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabrioviedo&theme=gruvbox" />
-</p>
+</div>
 
----
+<h2 align="center"> :bar_chart: GitHub stats </h2>
 
-<p align="center">Let’s build something awesome! 🚀</p>
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Ifabri31&show_icons=true&count_private=true&theme=cobalt&text_color=fafafa&hide_border=true&hide=issues,contribs&bg_color=00000000&rank_icon=github&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifabri31&hide=c,html,c%2B%2B&layout=compact&theme=cobalt&text_color=fafafa&hide_border=true&bg_color=00000000)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ifabri31&theme=cobalt&text_color=fafafa&hide_border=true&background=00000000)
+
+</div>
