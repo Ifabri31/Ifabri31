@@ -30,7 +30,7 @@
 ### 🛠️ Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,postgres,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,flask,postgres,docker,git,github,vscode,c" />
 </p>
 
 ---
