@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabrizzio Oviedo</h1>
+<h1 align="center">I'm Fabrizzio Oviedo</h1>
 
 <h3 align="center"> 📫 How to reach me: </h3>
 
